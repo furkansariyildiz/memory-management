@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/furkan/catkin_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/furkan/Desktop/job_in_point/src/memory_management/include/**",
+                "/home/furkan/catkin_ws/src/ptk_launch/include/**",
+                "/home/furkan/catkin_ws/src/ptk_upstart/include/**",
+                "/home/furkan/catkin_ws/src/server_msgs/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/src/memory_management"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

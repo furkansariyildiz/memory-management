@@ -1,0 +1,4 @@
+<launch>
+  <node name="memory_management" pkg="memory_management" type="memory_management_node" output="screen" >
+  </node>
+</launch>

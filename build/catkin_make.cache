@@ -1,0 +1,2 @@
+memory_management
+-DCATKIN_DEVEL_PREFIX=/home/furkan/Desktop/job_in_point/devel -DCMAKE_INSTALL_PREFIX=/home/furkan/Desktop/job_in_point/install -G Unix Makefiles

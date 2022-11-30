@@ -1,0 +1,8 @@
+prefix=/home/furkan/Desktop/job_in_point/install
+
+Name: memory_management
+Description: Description of memory_management
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmemory_management
+Requires: roscpp
